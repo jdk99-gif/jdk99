@@ -1,4 +1,5 @@
 @echo off
+color 79
 title Jdk-99 Installer
 echo Jdk-99 Installer
 echo Klikni Enter Aby Pobrac Jdk-99
